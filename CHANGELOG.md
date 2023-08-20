@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * Added GPL3+ license file;
 * Added CHANGELOG file based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/);
 * Added `.gitignore` file to ignore automatic generated python files;
+* Added `sarcastic` code;
 
 ### Fixed
 
