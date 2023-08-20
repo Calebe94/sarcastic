@@ -1,4 +1,4 @@
-# sarcastic
+# sArCaStIc
 
 mAkEs YoUr tExT SaRcAsTiC.
 
@@ -49,7 +49,21 @@ $ pip install dist/sarcastic_*.tar.gz
 
 ## Usage
 
-Coming soon...
+You can convert your text to sarcastic mode by passing the string as an argument such as bellow:
+
+``` sh
+$ sarcastic "This is a test"
+tHiS Is a tEsT
+```
+
+Or you can pass the text by piping it:
+
+``` sh
+$ echo "All you need is love. But a little chocolate now and then doesn't hurt." | sarcastic
+aLl yOu nEeD Is lOvE. bUt a lItTlE ChOcOlAtE NoW AnD ThEn dOeSn't hUrT.
+```
+
+This phrase is from [Charles M. Schulz](https://en.wikipedia.org/wiki/Charles_M._Schulz) by the way.
 
 ## Team
 
