@@ -1,6 +1,6 @@
 # sarcastic
 
-mAkE YoUr tExT SaRcAsTiC.
+mAkEs YoUr tExT SaRcAsTiC.
 
 ## Dependencies
 
