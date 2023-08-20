@@ -1,3 +1,7 @@
+[![PyPI version](https://img.shields.io/pypi/v/sarcastic)](https://pypi.org/project/sarcastic/)
+[![Python Versions](https://img.shields.io/pypi/pyversions/sarcastic)](https://pypi.org/project/sarcastic/)
+[![License: GPL3+](https://img.shields.io/badge/License-GPL3+-yellow.svg)](https://opensource.org/licenses/gpl-3-0)
+
 # sArCaStIc
 
 mAkEs YoUr tExT SaRcAsTiC.
